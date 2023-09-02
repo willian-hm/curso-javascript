@@ -15,7 +15,7 @@
         - Atribuímos valores a elas
         - São reais de 64bits
         - São objetos (referência)
-        
+
     - Expressões
         - soma +
         - subtração -
@@ -29,7 +29,7 @@
         - Valor igual ==
         - Valor e tipo igual ===
         - Diferente !=
-        - Valor e tipo dif !==
+        - Valor e tipo dif. !==
         - Maior >
         - Menor <
         - Maior/igual ou menor/igual >= <=
