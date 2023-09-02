@@ -1,4 +1,6 @@
+// o "//" serve para deixar como comentário dentro do javascript
 
+// VARIAVEIS
 // var y;
 
 // y = 37;
@@ -17,6 +19,7 @@
 // document.write(y);
 // document.write("<br>")
 
+// EXPRESSOES
 // var expressao;
 
 // expressao = 30 + 20 - 10*5
@@ -24,16 +27,7 @@
 // document.write ("30 + 20 - 10 * 5 = ")
 // document.write (expressao)
 
-// if (condicao) {
-//     declaracao_1;
-// } else if (condicao_2) {
-//     declaracao_2;
-// } else if (condicao_n) {
-//     declaracao_n;
-// } else (condicao_final) {
-//     declaracao_final;
-// }
-
+// ESTRUTURA DE COMPARACAO IF ELSE
 // var idade;
 // idade = prompt ("digite sua idade: ")
 
@@ -45,6 +39,7 @@
 //     document.write ("Menor de idade")
 // }
 
+// ESTRUTURA DE COMPARACAO SWITCH
 // cargo = prompt("digite seu cargo: ")
 // salario = 2000
 // 
@@ -58,9 +53,9 @@
 //     default:
 //         salario *= 1.05; // salario = salario * 1.05
 // }
-
 // console.log("Salario do "+ cargo +": " + salario)
 
+// ESTRUTURAS DE REPETICAO WHILE, DO WHILE E FOR
 // n = 0;
 // x = 0;
 // while (n < 4) {
@@ -76,9 +71,9 @@
 //     console.log(i)
 // } while (i < 5)
 
-var cont;
+// var cont;
 
-for(cont = 0; cont < 10; cont++)
-{
-    console.log("Willian")
-}
+// for(cont = 0; cont < 10; cont++)
+// {
+//     console.log("Willian")
+// }
