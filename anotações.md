@@ -37,7 +37,7 @@
         - Or ||
         - Não !
         
--Vetores
+- Vetores
     - Estrutura de seleção
         - Muda o fluxo/dá condição
         - if/else e switch
@@ -62,7 +62,7 @@
     for(i=0; i<tam; i++) {
         document.write("<br>");
         document.write(sul[i]);
-//   }
+    }
     ```
 
     - Outra coisa que podemos utilizar é o push, que possibilita a adição de um outro valor no final do vetor, como no exemplo abaixo
