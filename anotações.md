@@ -1,22 +1,22 @@
-# Apresentação
-- Linguagem de programação utilizada para dar dinamicidade e implementar itens complexos nas páginas web. Completa a tríade das linguagens essenciais (css, html e javascript)
-- Roda junto ao cliente (mas há tecnologias que rodam no servidor tbm, mas no curso n tem)
-- Surgiu por Bredan Eich em 1995
-- Moch → LiveScript → JavasSript
-- mantenedor da ling → fundação mozilla
-- programação mais utilizada
+- Apresentação
+    - Linguagem de programação utilizada para dar dinamicidade e implementar itens complexos nas páginas web. Completa a tríade das linguagens essenciais (css, html e javascript)
+    - Roda junto ao cliente (mas há tecnologias que rodam no servidor tbm, mas no curso n tem)
+    - Surgiu por Bredan Eich em 1995
+    - Moch → LiveScript → JavasSript
+    - mantenedor da ling → fundação mozilla
+    - programação mais utilizada
 
-# Como aplicar no html
+- Como aplicar no html
     - <script> dentro do html
     - larquivo js com <script type=”text/javascript” scr=””></script>
 
-# Variáveis e Expressões
+- Variáveis e Expressões
     - Variáveis
         - Atribuímos valores a elas
         - São reais de 64bits
         - São objetos (referência)
 
-    ## Expressões
+    - Expressões
         - soma +
         - subtração -
         - multiplicação e div * /
@@ -24,7 +24,7 @@
         - Incremento ++
         - Deecremento --
 
-    ## Operadores de Comparação
+    - Operadores de Comparação
         São usadas em repetição e condição
         - Valor igual ==
         - Valor e tipo igual ===
@@ -37,12 +37,12 @@
         - Or ||
         - Não !
         
-# Vetores
-    ## Estrutura de seleção
+- Vetores
+    - Estrutura de seleção
         - Muda o fluxo/dá condição
         - if/else e switch
 
-    ## Estrutura de repetição
+    - Estrutura de repetição
         - while - executa qnd condição verdadeira, qnd falsa ele para
         - do - while - repita até
         - for - é repetido por uma quantidade definida de vezes
