@@ -89,7 +89,7 @@
     console.log(frutas) // exibe no console a var frutas
     ```
 
-    # Também existem os métodos: #
+    - Também existem os métodos: 
         - Shift que remove o primeiro valor do vetor
         - Splice que remove ou altera um ou mais elementos do vetor
         - Slice que retorna uma faixa de elementos de um vetor
