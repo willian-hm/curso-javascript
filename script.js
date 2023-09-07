@@ -77,3 +77,43 @@
 // {
 //     console.log("Willian")
 // }
+
+// VETORES
+
+// var sul = new Array["PR", "SC", "RS"];
+
+// document.write("ESTADOS DA REGIAO SUL:");
+// document.write("<br>");
+// document.write(sul[0]);
+// document.write("<br>");
+// document.write(sul[1]);
+// document.write("<br>");
+// document.write(sul[2]);
+
+// var sul = ["PR", "SC", "RS"];
+
+// var tam = sul.length; // length contabilizará a quantidade de valores que há
+// na variável sul, ou seja, 3 valores
+
+// document.write("ESTADOS DA REGIAO SUL:");
+
+// for(i=0; i<tam; i++) {
+// 	document.write("<br>");
+//  document.write(sul[i]);
+// }
+
+// var meses = ["jan ", "fev ", "mar "];
+
+// meses.push("abr");
+
+// console.log(meses);
+
+// var frutas = ["banana", "laranja", "maçã"]
+
+// frutas.pop() // remove "maçã", que é o último valor de frutas
+// frutas.unshift("morango") // adiciona o valor "morango" no começo de frutas
+
+// console.log(frutas) // exibe no console a var frutas
+
+// MATRIZES
+
