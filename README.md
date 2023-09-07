@@ -115,3 +115,6 @@
     - .length - tamanho da string
     - .replace([palavra/parte da frase], [substituição])
     - .toUpperCase ( ), MAIÚSCULO; .toLowerCase ( ) minúsculo
+
+- Jquery
+    - Uma das bibliotecas mais populares e foi desenvolvida por John Resig. É utilizada para simplificar o código, possui várias opções de ações para utilizar de forma mais fácil e eficiente, você pode baixa-lo facilmente no site da jquery. Para explorar mais sobre o jquery acesse: https://eufacoprogramas.com/jquery-principais-comandos-para-manipulacao-do-dom/.
