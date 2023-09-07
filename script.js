@@ -117,3 +117,42 @@
 
 // MATRIZES
 
+//var tabuleiro = [['R','N','B','Q','K','B','N','R'],
+//                ['P','P','P','P','P','P','P','P'],
+//                 [' ',' ',' ',' ',' ',' ',' ',' '],
+//                 [' ',' ',' ',' ',' ',' ',' ',' '],
+//                 [' ',' ',' ',' ',' ',' ',' ',' '],
+//                [' ',' ',' ',' ',' ',' ',' ',' '],
+//                 ['p','p','p','p','p','p','p','p'],
+//                 ['r','n','b','q','k','b','n','r']];
+//
+//console.log(tabuleiro.join('\n') + '\n\n');
+//
+//tabuleiro[4] [2] = tabuleiro[6] [2];
+//tabuleiro[6] [2] = ' ';
+//console.log(tabuleiro.join('\n'));
+
+
+// FUNÇÕES E STRINGS
+
+//function quadrado(n) {
+//    quad = n*n;
+//    return quad;
+//} 
+
+//var valor = 5;
+//result = quadrado(valor);
+//alert(result);
+
+//function teste() {
+//    const var1 = 'valor';
+//    function teste2() {
+//        document.write('Funcao Interna');
+//    }
+//    teste2();
+//}
+
+//teste();
+//document.write(var1);
+
+// BIBLIOTECA JQUERY

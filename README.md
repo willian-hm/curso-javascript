@@ -9,8 +9,8 @@
     - programação mais utilizada
 
 - Como aplicar no html
-    - <script> dentro do html
-    - larquivo js com <script type=”text/javascript” scr=””></script>
+    - tag script dentro do html
+    - para um arquivo js com type:text/javascript dentro da tag script
 
 - Variáveis e Expressões
     - Variáveis
@@ -97,3 +97,21 @@
         - Reverse inverte as posições dos valores no vetor
         - Concat junta um ou mais vetores
         - Join junta valores de um vetor com um caracter de separador
+
+- Matrizes
+    - É um array bidimencional, onde possui um núm fixo de componentes em 2 dimensões, é um array dividido em linhas e colunas (ambos iniciam-se no 0 e é nessa ordem o índice)
+    
+    ```jsx
+    var matint = [[3,6,9],
+    			  [2,4,6],
+    			  [1,2,3]];
+    ```
+    
+- Funções e Strings
+    - Subprograma que pode ser chamado por um código externo à sua função, é um conjunto de intruções que calcula um valor, valores podem ser passados para uma função que retorna com um valor resposta
+    - function [nome da função] ([condições]) {[instruções]}
+    - Para retornar o valor, utilizamos return{[valor a ser retornado, a partir do que foi instruído a função]}
+    - String é um vetor de caracteres:
+    - .length - tamanho da string
+    - .replace([palavra/parte da frase], [substituição])
+    - .toUpperCase ( ), MAIÚSCULO; .toLowerCase ( ) minúsculo

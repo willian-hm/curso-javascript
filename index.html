@@ -1,1 +1,51 @@
-<script type="text/javascript" src="script.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+
+            $("h1").click(function(){
+                $("#objetivos").slideToggle(500);
+            });
+
+        });
+    </script>
+
+    <script type="text/javascript">
+        $(function(){
+            $("#btnTeste").click(function(){
+                $("#divPrincipal").append("<h1>Título</h1>"); //pode-se utilizar prepend para adicionar antes 
+            });
+
+        });
+    </script>
+</script>
+</head>
+<body>
+  
+<!--
+    <h1>Objetivos </h1>
+    <p id="objetivos">
+        bla bla bla bla<br>
+        bla bla bla bla<br>
+        bla bla bla bla<br>
+        bla bla bla bla<br>
+        bla bla bla bla<br>
+    </p>
+    <h1>Cronograma</h1>
+-->
+<!--
+<div id="divPrincipal">
+    <span>Texto Inicial</span>
+</div>
+<button id="btnTeste">Testar</button>
+-->
+
+    
+</body>
+</html>
