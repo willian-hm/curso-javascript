@@ -52,6 +52,7 @@
     - Ex: var sul = new Array(”RS”, ”SC”,  “PR”); → nesse exemplo, temos os valores 0 (RS), 1 (SC) e 2 (PR) dentro do vetor sul
     - Para exibir os valores, por exemplo, podemos utilizar o document.write(sul[0]), assim, na página hmtl será exibido “RS”
     - Para diminuirmos o código de exibição ao envés de fazer document.write(sul[0]), document.write(sul[1]), document.write(sul[2]), para exibir os 3 valores, podemos utilizar uma estrutura de repetição “for”, como no exemplo abaixo:
+    
 
     ```jsx
     var sul = ["PR", "SC", "RS"];
