@@ -1,10 +1,10 @@
 # Apresentação
-    - Linguagem de programação utilizada para dar dinamicidade e implementar itens complexos nas páginas web. Completa a tríade das linguagens essenciais (css, html e javascript)
-    - Roda junto ao cliente (mas há tecnologias que rodam no servidor tbm, mas no curso n tem)
-    - Surgiu por Bredan Eich em 1995
-    - Moch → LiveScript → JavasSript
-    - mantenedor da ling → fundação mozilla
-    - programação mais utilizada
+- Linguagem de programação utilizada para dar dinamicidade e implementar itens complexos nas páginas web. Completa a tríade das linguagens essenciais (css, html e javascript)
+- Roda junto ao cliente (mas há tecnologias que rodam no servidor tbm, mas no curso n tem)
+- Surgiu por Bredan Eich em 1995
+- Moch → LiveScript → JavasSript
+- mantenedor da ling → fundação mozilla
+- programação mais utilizada
 
 # Como aplicar no html
     - <script> dentro do html
